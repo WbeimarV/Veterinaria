@@ -41,17 +41,12 @@ Este proyecto implementa asincronía en varios puntos del flujo del sistema para
 Esta estructura permite mostrar de forma práctica cómo aplicar los principales patrones asincrónicos en JavaScript moderno.
 
 
-##  Cómo probar el sistema
 
-1. Abre el archivo `index.html` en cualquier navegador moderno.
-2. Usa la consola y ventanas emergentes (`prompt`, `alert`) para interactuar.
-3. Observa cómo se simulan demoras en operaciones como registro, búsqueda o actualización.
+
+
+## Autor
 
 Este proyecto está pensado para uso educativo. No utiliza almacenamiento persistente, por lo que los datos se pierden al recargar la página.
-
-
-
-## 📚 Autor
 
 Este proyecto fue diseñado como una introducción práctica a la asincronía en JavaScript.
 
